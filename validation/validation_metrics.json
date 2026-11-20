@@ -1,0 +1,21 @@
+{
+  "integration_success": true,
+  "reference_integration_success": true,
+  "gamma0": 30.0,
+  "max_relative_gamma_drift": 2.2662427490161008e-11,
+  "max_relative_gamma_drift_tighter_solver": 2.9887203822909214e-13,
+  "max_relative_u_squared_drift": 4.5375592172547385e-11,
+  "max_relative_coordinate_time_error": 7.41991826776663e-12,
+  "max_relative_spatial_u_dot_du_orthogonality": 1.0411683798433802e-17,
+  "max_v_over_c": 0.9994442900376794,
+  "min_radius_m": 1.0,
+  "cutoff_radius_m": 0.01,
+  "max_position_discrepancy_between_solvers_m": 9.109775543225436e-06,
+  "max_position_discrepancy_as_fraction_of_z_extent": 2.0288969080530535e-10,
+  "mean_azimuthal_axis_frequency_hz": 203301.49340557083,
+  "mean_local_gyrofrequency_hz": 466649.34927759017,
+  "E_boost_relative_difference": 9.499278057202674e-17,
+  "B_boost_relative_difference": 2.47961415968918e-15,
+  "scipy_version": "1.17.0",
+  "numpy_version": "2.3.5"
+}
