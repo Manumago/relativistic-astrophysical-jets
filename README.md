@@ -2,7 +2,7 @@
 
 **Numerical astrophysics | Universidad de Antioquia | 2025**  
 **Author:** Manuela Marín Gómez  
-**Context:** Individual computational project for *Celestial Mechanics*, taught by Prof. Jorge I. Zuluaga.
+**Context:** Individual computational project for *Relativity*, taught by Prof. Jorge I. Zuluaga.
 
 > **Portfolio version — under review.** This repository is adapted from my 2025 course notebook. The original numerical workflow is preserved, but some physical approximations and numerical diagnostics still need independent verification; see [`REVIEW_NOTES.md`](REVIEW_NOTES.md).
 
